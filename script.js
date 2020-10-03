@@ -1,0 +1,1 @@
+Intail.offline(type1)
